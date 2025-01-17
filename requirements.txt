@@ -1,2 +1,6 @@
 celery
 django
+selenium 
+webdriver-manager
+django-celery-results
+django-celery-beat

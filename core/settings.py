@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "stocks",
     "django_celery_results",
+    "django_celery_beat",
 ]
 
 MIDDLEWARE = [
