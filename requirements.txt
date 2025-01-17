@@ -1,6 +1,5 @@
 celery
 django
-selenium 
-webdriver-manager
+yfinance
 django-celery-results
 django-celery-beat
