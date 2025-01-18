@@ -3,3 +3,4 @@ django
 yfinance
 django-celery-results
 django-celery-beat
+djangorestframework
