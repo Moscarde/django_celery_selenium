@@ -1,4 +1,4 @@
-# Projeto Django com Celery para Obtenção de Preços de Ações
+# Django + Celery - Obtenção de Preços de Ações
 ![Header](screenshots/header.png)
 
 Este é um projeto de estudo e compreensão da ferramenta Celery em conjunto com Django, criando uma API para obter preços de ações e processar essas informações em segundo plano com Celery. O projeto utiliza o `yfinance` para buscar os preços de ações e oferece endpoints REST para interagir com o sistema.
@@ -42,7 +42,8 @@ Certifique-se de ter o Docker e o Docker Compose instalados no seu sistema. Voc�
     
     Primeiro, clone este repositório para sua máquina local.
 ```bash
-git clone https://github.com/Moscarde/django_celery_selenium cd https://github.com/Moscarde/django_celery_selenium
+git clone https://github.com/Moscarde/django_celery_stock_prices
+cd https://github.com/Moscarde/django_celery_stock_prices
 ```
 2. **Construir a imagem Docker**
 
